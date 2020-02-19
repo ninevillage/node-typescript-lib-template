@@ -2,6 +2,9 @@
 
 just a simple typescript starter template for node libs
 
+![Tests](https://github.com/naxmefy/node-typescript-lib-template/workflows/Tests/badge.svg)
+![Release](https://github.com/naxmefy/node-typescript-lib-template/workflows/Release/badge.svg)
+
 1. Don't forget to change name in `package.json`
 2. Update Repository info
 3. Update this readme
