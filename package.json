@@ -27,7 +27,8 @@
     "prebuild": "rimraf dist",
     "lint": "eslint src/**/*.{ts,tsx}",
     "lint:fix": "yarn lint --fix",
-    "test": "jest --watch",
+    "test": "jest",
+    "test:watch": "yarn test --watch",
     "coverage": "jest --collectCoverageFrom=src/**/*.ts --coverage"
   },
   "dependencies": {
